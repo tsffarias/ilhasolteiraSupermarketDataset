@@ -82,3 +82,4 @@ Bom Preço Supermercados;17/05/2019;21/05/2019;Presunto Perdigão;1kg;17.90;
 Bom Preço Supermercados;17/05/2019;21/05/2019;Mortadela Bolognella Tradicional Perdigão;1kg;11.80;
 Bom Preço Supermercados;17/05/2019;21/05/2019;Linguiça Calabresa Sadia/Perdigão Granel;1kg;13.97;
 Bom Preço Supermercados;17/05/2019;21/05/2019;Peito de Frango Confina Cong;1kg;6.99;
+Bom Preço Supermercados;24/05/2019;30/05/2019;;;;
