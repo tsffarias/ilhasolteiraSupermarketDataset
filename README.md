@@ -9,10 +9,5 @@ Esta é uma base de dados dos supermercados da cidade de ilha solteira/SP no Bras
 ### Author
 
 ```sh
-Thiago Silva Farias
-```
-
-### Linkedin
-```sh
-[https://www.linkedin.com/in/thiagosilvafarias/](https://www.linkedin.com/in/thiagosilvafarias/)
+[Thiago Silva Farias](https://www.linkedin.com/in/thiagosilvafarias/)
 ```
