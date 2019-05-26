@@ -1,0 +1,1 @@
+Supermarket name;start date;end date;product name;product weight;price;
