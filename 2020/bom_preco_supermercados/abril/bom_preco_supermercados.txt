@@ -1,0 +1,20 @@
+Bom Preço Supermercados;27/04/2020;28/04/2020;Maçã Gala;1kg;3.49
+Bom Preço Supermercados;27/04/2020;28/04/2020;Caqui Rama Forte;1kg;1.99
+Bom Preço Supermercados;27/04/2020;28/04/2020;Abóbora Japonesa;1kg;0.89
+Bom Preço Supermercados;27/04/2020;28/04/2020;Laranja Pera;1kg;0.99
+Bom Preço Supermercados;27/04/2020;28/04/2020;Cenoura;1kg;2.99
+Bom Preço Supermercados;27/04/2020;28/04/2020;Brocolis Ninja;1un;2.99
+Bom Preço Supermercados;27/04/2020;28/04/2020;Abacaxi Hawai;1un;3.99
+Bom Preço Supermercados;27/04/2020;28/04/2020;Atemoia;1kg;4.99
+Bom Preço Supermercados;27/04/2020;28/04/2020;Goiaba Vermelha;1kg;3.99
+Bom Preço Supermercados;27/04/2020;28/04/2020;Maçã Red Importada;1kg;6.99
+Bom Preço Supermercados;27/04/2020;28/04/2020;Mamão Papaya;1kg;2.89
+Bom Preço Supermercados;27/04/2020;28/04/2020;Maracujá Azedo;1kg;4.99
+Bom Preço Supermercados;27/04/2020;28/04/2020;Melância Inteira;1kg;0.99
+Bom Preço Supermercados;27/04/2020;28/04/2020;Ponka;1kg;2.79
+Bom Preço Supermercados;27/04/2020;28/04/2020;Uva Tompsom BDJ;500g;5.99
+Bom Preço Supermercados;27/04/2020;28/04/2020;Uva Vitória BDJ;500g;5.99
+Bom Preço Supermercados;27/04/2020;28/04/2020;Abóbora Paulista Madura;1kg;0.89
+Bom Preço Supermercados;27/04/2020;28/04/2020;Beterraba;1kg;1.69
+Bom Preço Supermercados;27/04/2020;28/04/2020;Pepino Japonês;1kg;1.67
+Bom Preço Supermercados;27/04/2020;28/04/2020;Acelga;1un;2.99

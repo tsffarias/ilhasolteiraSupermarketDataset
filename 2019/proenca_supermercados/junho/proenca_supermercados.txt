@@ -1,0 +1,368 @@
+Proença Supermercados;31/05/2019;02/06/2019;Arroz Patéko Tipo 1 Pacote;5kg;8.98
+Proença Supermercados;31/05/2019;02/06/2019;Arroz Proença Premium Tipo 1 Pacote;5kg;13.98
+Proença Supermercados;31/05/2019;02/06/2019;Café Proença Long Life;500g;5.89
+Proença Supermercados;31/05/2019;02/06/2019;Leite UHT Hércules TP;1l;2.39
+Proença Supermercados;31/05/2019;02/06/2019;Açúcar Cristal Guarani Pacote;5kg;6.79
+Proença Supermercados;31/05/2019;02/06/2019;Óleo de Soja Vila Velha Pet;900ml;2.59
+Proença Supermercados;31/05/2019;02/06/2019;Azeitona Verde com Caroço  Raiola;500ml;5.99
+Proença Supermercados;31/05/2019;02/06/2019;Azeite Extravirgem Proença;500ml;14.99
+Proença Supermercados;31/05/2019;02/06/2019;Molho de Tomate Tradicional Tarantella Sachê;340g;0.89
+Proença Supermercados;31/05/2019;02/06/2019;Extrato de Tomate Elefante Lata;340g;2.99
+Proença Supermercados;31/05/2019;02/06/2019;Macarrão Semolado Basilar Pacote;500g;1.79
+Proença Supermercados;31/05/2019;02/06/2019;Cerveja Skol Lata;350ml;1.89
+Proença Supermercados;31/05/2019;02/06/2019;Picanha Bovina Friboi Reserva Peça Emb. a Vácuo;1kg;39.98
+Proença Supermercados;31/05/2019;02/06/2019;Contrafilé Bovina Maturatta Emb. a Vácuo;1kg;29.99
+Proença Supermercados;31/05/2019;02/06/2019;Coxão Duro Bovino;1kg;16.99
+Proença Supermercados;31/05/2019;02/06/2019;Ponta de Peito Bovino;1kg;12.99
+Proença Supermercados;31/05/2019;02/06/2019;Fraldão Bovino Emb. a Vácuo;1kg;15.98
+Proença Supermercados;31/05/2019;02/06/2019;Capa do Contrafilé Emb. a Vácuo;1kg;13.99
+Proença Supermercados;31/05/2019;02/06/2019;Costelão Bovino Cong;1kg;11.98
+Proença Supermercados;31/05/2019;02/06/2019;Coxão e Sobrecoxa de Frango Nutribem Pacote Cong;1kg;4.98
+Proença Supermercados;31/05/2019;02/06/2019;Moela de Frango Sadia bdj.;1kg;5.99
+Proença Supermercados;31/05/2019;02/06/2019;Coxa e Sobrecoxa de Frango Desossada Perdigão a Granel;1kg;8.99
+Proença Supermercados;31/05/2019;02/06/2019;Coxa de Frango Kórin Cong. bdj.;600g;3.98
+Proença Supermercados;31/05/2019;02/06/2019;Linguiça Calabresa Perdigão a Granel;1kg;13.99
+Proença Supermercados;31/05/2019;02/06/2019;Linguiça Fininha Seara Pct.;240g;2.99
+Proença Supermercados;31/05/2019;02/06/2019;Salsicha Hot Dog Perdigão a Granel;1kg;6.99
+Proença Supermercados;31/05/2019;02/06/2019;Presunto Tradicional Perdigão;1kg;13.90
+Proença Supermercados;31/05/2019;02/06/2019;Mortadela Tradicional Perdigão;1kg;6.90
+Proença Supermercados;31/05/2019;02/06/2019;Salame Italiano Sadia Peça;1kg;39.90
+Proença Supermercados;31/05/2019;02/06/2019;Big Chicken Perdigão Pct.;1kg;17.90
+Proença Supermercados;31/05/2019;02/06/2019;Batata Palito Cong. Chic Bem Brasil Pct.;1,5kg;10.98
+Proença Supermercados;31/05/2019;02/06/2019;Sorvete Kibon Cremosíssimo;1,5l;13.90
+Proença Supermercados;31/05/2019;02/06/2019;Requeijão Tirolez Copo;200g;3.69
+Proença Supermercados;31/05/2019;02/06/2019;Iogurte Polpa Vigor;540g;2.79
+Proença Supermercados;31/05/2019;02/06/2019;Maçã Gala;1kg;3.99
+Proença Supermercados;31/05/2019;02/06/2019;Kiwi Turma da Mônica Bandeija;600g;3.59
+Proença Supermercados;31/05/2019;02/06/2019;Laranja Pera;1kg;0.99
+Proença Supermercados;31/05/2019;02/06/2019;Limão Taiti;1kg;0.99
+Proença Supermercados;31/05/2019;02/06/2019;Abóbora Cabotiá;1kg;0.98
+Proença Supermercados;31/05/2019;02/06/2019;Batata Doce;1kg;0.99
+Proença Supermercados;31/05/2019;02/06/2019;Cebola Nacional;1kg;2.69
+Proença Supermercados;31/05/2019;02/06/2019;Alho a Granel Cada;100g;1.29
+Proença Supermercados;31/05/2019;02/06/2019;Creme Dental Sorriso Trípla Limpeza Completa;70g;0.99
+Proença Supermercados;31/05/2019;02/06/2019;Desodorante Rexona Aerosol;90g;8.99
+Proença Supermercados;31/05/2019;02/06/2019;Lava Roupas em Pó Omo Lavagem Perfeita Caixa;800g;6.59
+Proença Supermercados;31/05/2019;02/06/2019;Limpador Veja Multiuso Original Leve;500ml;2.99
+Proença Supermercados;31/05/2019;02/06/2019;Lã de Aço Q'Lustro;8un;0.89
+Proença Supermercados;31/05/2019;02/06/2019;Lava Louças Líquido Limpol;500ml;1.29
+Proença Supermercados;31/05/2019;02/06/2019;Lava Roupas Tixan Sachê;3kg;14.97
+Proença Supermercados;31/05/2019;02/06/2019;Amaciante de Roupas Mon Biju Leve;2l;4.99
+Proença Supermercados;31/05/2019;02/06/2019;Amaciante de Roupas Urca;5l;8.49
+Proença Supermercados;31/05/2019;02/06/2019;Água Tônica Antarctica Lata;350ml;1.99
+Proença Supermercados;31/05/2019;02/06/2019;Refrigerante Guaraná Antarctica Pet;237ml;0.89
+Proença Supermercados;31/05/2019;02/06/2019;Refrigerante Sukita Pet;2l;3.49
+Proença Supermercados;31/05/2019;02/06/2019;Refrigerante Guaraná Antarctica Pet;2l;4.99
+Proença Supermercados;31/05/2019;02/06/2019;Cerveja Lokal Lata;350ml;1.29
+Proença Supermercados;31/05/2019;02/06/2019;Cerveja Petra Lata;350ml;1.99
+Proença Supermercados;31/05/2019;02/06/2019;Cerveja Império Puro Malte Garrafa;600ml;3.99
+Proença Supermercados;31/05/2019;02/06/2019;Cerveja Império Puro Malte Lata;350ml;1.99
+Proença Supermercados;31/05/2019;02/06/2019;Cerveja Stella Artois Long Neck;275ml;2.89
+Proença Supermercados;31/05/2019;02/06/2019;Cerveja Corona Long Neck;355ml;3.99
+Proença Supermercados;31/05/2019;02/06/2019;Cerveja Bohemia Lata;350ml;1.99
+Proença Supermercados;31/05/2019;02/06/2019;Vinho Santa Carolina Reservado;750ml;18.99
+Proença Supermercados;31/05/2019;02/06/2019;Torrada Adria;160g;1.99
+Proença Supermercados;31/05/2019;02/06/2019;Biscoito Marilan Pit Stop;162g;2.29
+Proença Supermercados;31/05/2019;02/06/2019;Biscoito Mabel;400g;2.99
+Proença Supermercados;31/05/2019;02/06/2019;Azeite Puro Gallo Vidro;500ml;12.98
+Proença Supermercados;31/05/2019;02/06/2019;Açúcar Refinado União Pct.;1kg;1.89
+Proença Supermercados;31/05/2019;02/06/2019;Açúcar Demerara Auto Alegre Pct.;1kg;2.99
+Proença Supermercados;31/05/2019;02/06/2019;Leite UHT Ninho Integral;1l;3.59
+Proença Supermercados;31/05/2019;02/06/2019;Leite em Pó Ninho Integral Instantâneo;400g;9.98
+Proença Supermercados;31/05/2019;02/06/2019;Leite Condensado Moça Lata;395g;3.98
+Proença Supermercados;31/05/2019;02/06/2019;Creme de Leite Paulista TP;200g;2.25
+Proença Supermercados;31/05/2019;02/06/2019;Achocolatado em Pó Nescau Sachê Leve;900g;8.99
+Proença Supermercados;31/05/2019;02/06/2019;Cápsula 3 Corações Cartucho;1un;10.98
+Proença Supermercados;31/05/2019;02/06/2019;Bombom Hershey's Mais;115g;2.89
+Proença Supermercados;31/05/2019;02/06/2019;Pêssego em Calda Olé Lata;450g;6.99
+Proença Supermercados;31/05/2019;02/06/2019;Maionese Hellmann's;500g;4.49
+Proença Supermercados;31/05/2019;02/06/2019;Maionese Maria;500g;2.29
+Proença Supermercados;31/05/2019;02/06/2019;Sardinha Coqueiro Lata;125g;2.98
+Proença Supermercados;31/05/2019;02/06/2019;Massa Lasanha Petybon Direto Forno;200g;2.19
+Proença Supermercados;31/05/2019;02/06/2019;Tempero Kodilar Tempera Fácil;60g;1.99
+Proença Supermercados;31/05/2019;02/06/2019;Sal Rosa do Himalaia Natural Life Grosso/moído;500g;5.99
+Proença Supermercados;03/06/2019;04/06/2019;Abábora Formosa;1kg;2.19
+Proença Supermercados;03/06/2019;04/06/2019;Pepino Caipira;1kg;0.99
+Proença Supermercados;03/06/2019;04/06/2019;Batata Doce;1kg;0.95
+Proença Supermercados;03/06/2019;04/06/2019;Laranja Pera/Limão Taiti;1kg;0.89
+Proença Supermercados;03/06/2019;04/06/2019;Mamão Formosa;1kg;2.19
+Proença Supermercados;03/06/2019;04/06/2019;Banana Prata;1kg;2.98
+Proença Supermercados;03/06/2019;04/06/2019;Melancia Inteira;1kg;1.39
+Proença Supermercados;03/06/2019;04/06/2019;Ponkan;1kg;1.98
+Proença Supermercados;03/06/2019;04/06/2019;Maçã Fuji;1kg;2.95
+Proença Supermercados;03/06/2019;04/06/2019;Abacate;1kg;2.35
+Proença Supermercados;03/06/2019;04/06/2019;Melão Amarelo;1kg;3.95
+Proença Supermercados;03/06/2019;04/06/2019;Banana Nanica;1kg;1.39
+Proença Supermercados;03/06/2019;04/06/2019;Cebola Nacional;1kg;2.89
+Proença Supermercados;03/06/2019;04/06/2019;Beterraba;1kg;1.99
+Proença Supermercados;03/06/2019;04/06/2019;Cenoura Extra;1kg;3.45
+Proença Supermercados;03/06/2019;04/06/2019;Chuchu;1kg;1.89
+Proença Supermercados;03/06/2019;04/06/2019;Abóbora Moranga;1kg;0.89
+Proença Supermercados;03/06/2019;04/06/2019;Berinjela;1kg;1.65
+Proença Supermercados;03/06/2019;04/06/2019;Repolho Verde;1kg;2.59
+Proença Supermercados;03/06/2019;04/06/2019;Arroz Biju Tipo 1;5kg;10.85
+Proença Supermercados;03/06/2019;04/06/2019;Farinha de Trigo Nita Pct.;1kg;2.79
+Proença Supermercados;03/06/2019;04/06/2019;Açúcar Refinado Alto Alegre Pct.;1kg;1.58
+Proença Supermercados;03/06/2019;04/06/2019;Óleo de Milho Sinhá Pet;900ml;3.99
+Proença Supermercados;03/06/2019;04/06/2019;Maionese Hellmann's;700g;6.99
+Proença Supermercados;03/06/2019;04/06/2019;Cerveja Crystal Lata;350ml;1.55
+Proença Supermercados;03/06/2019;04/06/2019;Bolo de Chocolate com Raspas Proença;1kg;25.90
+Proença Supermercados;03/06/2019;04/06/2019;Fatia Húngara Proença;1kg;19.90
+Proença Supermercados;03/06/2019;04/06/2019;Pão de Queijo Proença;1kg;19.90
+Proença Supermercados;03/06/2019;04/06/2019;Pão de Queijo com Provolone Proença;1kg;26.90
+Proença Supermercados;03/06/2019;04/06/2019;Pão de Leite Proença;1kg;9.90
+Proença Supermercados;03/06/2019;04/06/2019;Pão Caseiro Proença;1kg;9.90
+Proença Supermercados;03/06/2019;04/06/2019;Patinho Bovino;1kg;18.99
+Proença Supermercados;03/06/2019;04/06/2019;Acém Bovino;1kg;15.89
+Proença Supermercados;03/06/2019;04/06/2019;Miolo do Acém Bovino;1kg;16.59
+Proença Supermercados;03/06/2019;04/06/2019;Rabo Bovino;1kg;15.99
+Proença Supermercados;03/06/2019;04/06/2019;Mocotó Bovino;1kg;7.99
+Proença Supermercados;03/06/2019;04/06/2019;Coxa e Sobrecoxa de Frango Desossada Perdigão a Granel;1kg;8.99
+Proença Supermercados;03/06/2019;04/06/2019;Frango Inteiro Nutribem Cong.;1kg;4.99
+Proença Supermercados;03/06/2019;04/06/2019;Filé de Peito de Frango Nutribem Cong. Pct.;1kg;8.98
+Proença Supermercados;03/06/2019;04/06/2019;Linguiça Toscana na Brasa Perdigão a Granel;1kg;11.99
+Proença Supermercados;03/06/2019;04/06/2019;Linguiça Calabresa Perdigão a Granel;1kg;13.99
+Proença Supermercados;03/06/2019;04/06/2019;Salsicha Hot Dog Perdigão a Granel;1kg;6.99
+Proença Supermercados;03/06/2019;04/06/2019;Mortadela Tradicional Perdigão;1kg;6.90
+Proença Supermercados;03/06/2019;04/06/2019;Margarina Delícia;500g;3.98
+Proença Supermercados;03/06/2019;04/06/2019;Sardinha Gomes das Costa;125g;2.99
+Proença Supermercados;03/06/2019;04/06/2019;Kit Hellmann's Sanduiche;885g;14.99
+Proença Supermercados;03/06/2019;04/06/2019;Torrada Bauducco;142g;2.99
+Proença Supermercados;03/06/2019;04/06/2019;Wafer Bauduco;117g/140g;1.99
+Proença Supermercados;03/06/2019;04/06/2019;Refrigerante Guaraná Antarctica Lata;350ml;1.99
+Proença Supermercados;03/06/2019;04/06/2019;Energética TNT Lata;269ml;3.99
+Proença Supermercados;03/06/2019;04/06/2019;Cerveja Antarctica Lata;350ml;1.89
+Proença Supermercados;03/06/2019;04/06/2019;Desinfetante Omo Pisos;450ml;3.99
+Proença Supermercados;03/06/2019;04/06/2019;Lava Louças Ypê Frangrância;500ml;1.38
+Proença Supermercados;03/06/2019;04/06/2019;Amaciante de Roupas Comfort Leve;2l;9.89
+Proença Supermercados;06/06/2019;12/06/2019;Arroz Patéko Premium Tipo 1;5kg;11.98
+Proença Supermercados;06/06/2019;12/06/2019;Arroz Proença  Tipo 1;5kg;10.49
+Proença Supermercados;06/06/2019;12/06/2019;Feijão Carioca Proença;2kg;7.98
+Proença Supermercados;06/06/2019;12/06/2019;Leite UHT Ninho Integral;1l;3.99
+Proença Supermercados;06/06/2019;12/06/2019;Açúcar Refinado Guarani;1kg;1.49
+Proença Supermercados;06/06/2019;12/06/2019;Café Solimões;500g;5.99
+Proença Supermercados;06/06/2019;12/06/2019;Macarrão Semolado Galo Pct.;500g;1.59
+Proença Supermercados;06/06/2019;12/06/2019;Molho de Tomate Tradicional Quero Sachê;340g;0.99
+Proença Supermercados;06/06/2019;12/06/2019;Azeite Extravirgem Andorinha Vidro;500ml;15.98
+Proença Supermercados;06/06/2019;12/06/2019;Bombom Nestlé Especialidades;300g;7.99
+Proença Supermercados;06/06/2019;12/06/2019;Leite Condensado Triângulo Mineiro TP;395g;2.89
+Proença Supermercados;06/06/2019;12/06/2019;Suco de Uva Integral Salton;1,5l;9.98
+Proença Supermercados;06/06/2019;12/06/2019;Vinho Crevelim;750ml;13.98
+Proença Supermercados;06/06/2019;12/06/2019;Amaciante de Roupas Ypê Aconchego leve;2l;4.99
+Proença Supermercados;06/06/2019;12/06/2019;Contrafilé Bovino em Bifes;1kg;23.99
+Proença Supermercados;06/06/2019;12/06/2019;Paleta Bovina;1kg;15.98
+Proença Supermercados;06/06/2019;12/06/2019;Miolo Paleta Bovina;1kg;17.95
+Proença Supermercados;06/06/2019;12/06/2019;Fraldão Bovino (Vácuo);1kg;18.98
+Proença Supermercados;06/06/2019;12/06/2019;Costelão Bovino Cong.;1kg;12.99
+Proença Supermercados;06/06/2019;12/06/2019;Filé de Peito de Frango Sadia Cong.;1kg;11.99
+Proença Supermercados;06/06/2019;12/06/2019;Coxinha da Asa de Frango Cong. Perdigão Pct.;1kg;7.99
+Proença Supermercados;06/06/2019;12/06/2019;Coxa e Sobrecoxa de Frango Desossada Perdigão a Granel;1kg;8.99
+Proença Supermercados;06/06/2019;12/06/2019;Coxa de Frango Korin Cong. Bdj.;600g;3.98
+Proença Supermercados;06/06/2019;12/06/2019;Bacalhau do Porto Morhua;4/7kg;59.90
+Proença Supermercados;06/06/2019;12/06/2019;Filé de Tilápia Brazilian Fish Pct.;500g;17.99
+Proença Supermercados;06/06/2019;12/06/2019;Peito de Peru Sadia Defumado;1kg;49.90
+Proença Supermercados;06/06/2019;12/06/2019;Presunto Tradicional Perdigão;1kg;18.90
+Proença Supermercados;06/06/2019;12/06/2019;Salame Italiano Sadia Peça;1kg;49.90
+Proença Supermercados;06/06/2019;12/06/2019;Linguiça Toscana Nabrasa Perdigão a Granel;1kg;11.99
+Proença Supermercados;06/06/2019;12/06/2019;Linguiça Calabresa Perdigão a Granel;1kg;13.99
+Proença Supermercados;06/06/2019;12/06/2019;Salsicha Hot Dog Perdigão a Granel;1kg;7.99
+Proença Supermercados;06/06/2019;12/06/2019;Baicon Manta Sadia Defumado a Granel;1kg;18.90
+Proença Supermercados;06/06/2019;12/06/2019;Big Chicken Perdigão Trad./Queijo Pct. Cong.;1kg;19.90
+Proença Supermercados;06/06/2019;12/06/2019;Lasanha Sadia Sabores;600g;9.98
+Proença Supermercados;06/06/2019;12/06/2019;Coxa de Frango Assa Fácil Sadia Temp. Pct.;800g;9.49
+Proença Supermercados;06/06/2019;12/06/2019;Sobrecoxa de Frango Assa Fácil Sadia Temp. Pct.;800g;9.98
+Proença Supermercados;06/06/2019;12/06/2019;Margarina Qualy;500g;4.99
+Proença Supermercados;06/06/2019;12/06/2019;Batata Palito Trad. Cong. McCain Pct.;1,5kg;14.99
+Proença Supermercados;06/06/2019;12/06/2019;Batata Rústica McCain Pct.;720g;9.98
+Proença Supermercados;06/06/2019;12/06/2019;Batata Palito Trad.;1kg;8.89
+Proença Supermercados;06/06/2019;12/06/2019;Batata Smile McCain Pct.;500g;8.79
+Proença Supermercados;06/06/2019;12/06/2019;Batata Canoa McCain Pct.;500g;8.99
+Proença Supermercados;06/06/2019;12/06/2019;Anéis de Cebola McCain Pct.;500g;7.99
+Proença Supermercados;06/06/2019;12/06/2019;Costela Suína Defumada Frimesa Emb.;1kg;36.90
+Proença Supermercados;06/06/2019;12/06/2019;Bacon Manta Sadia a Granel;1kg;18.90
+Proença Supermercados;06/06/2019;12/06/2019;Costela Suína Salgada Frimesa Emb.;1kg;15.89
+Proença Supermercados;06/06/2019;12/06/2019;Orelha Suína Frimesa Salgada Emb.;1kg;12.69
+Proença Supermercados;06/06/2019;12/06/2019;Linguiça Calabresa Perdigão a Granel;1kg;13.99
+Proença Supermercados;06/06/2019;12/06/2019;Pé Suíno Frimesa Salgado Emb.;1kg;8.99
+Proença Supermercados;06/06/2019;12/06/2019;Pele Suina Frimesa Salgada Emb.;1kg;7.99
+Proença Supermercados;06/06/2019;12/06/2019;Joelho Suíno Frimesa Salgado Emb.;1kg;7.89
+Proença Supermercados;06/06/2019;12/06/2019;Jerked Beef Dianteiro Vilheto;500g;13.99
+Proença Supermercados;06/06/2019;12/06/2019;Feijão Preto Patéko Pct.;1kg;3.99
+Proença Supermercados;06/06/2019;12/06/2019;Farofa Pronta Siamar Pct.;400g;2.99
+Proença Supermercados;06/06/2019;12/06/2019;Caldo Knorr;57g;1.29
+Proença Supermercados;06/06/2019;12/06/2019;Maionese Hellmann's;500g;4.49
+Proença Supermercados;06/06/2019;12/06/2019;Amido de Milho Maizene;200g;3.49
+Proença Supermercados;06/06/2019;12/06/2019;Tempero Knorr Meus Assados;25g;2.99
+Proença Supermercados;06/06/2019;12/06/2019;Ketchup Hellmann's;380g;5.99
+Proença Supermercados;06/06/2019;12/06/2019;Tempero Knorr Ideal;40g;2.99
+Proença Supermercados;06/06/2019;12/06/2019;Sorvete Kibon Cremosíssimo;1,5l;12.90
+Proença Supermercados;06/06/2019;12/06/2019;Sorvete Kibon Cremosíssimo;2l;19.90
+Proença Supermercados;06/06/2019;12/06/2019;Shampoo Clear;400ml;21.99
+Proença Supermercados;06/06/2019;12/06/2019;Iogurte Perlat;170g;0.99
+Proença Supermercados;06/06/2019;12/06/2019;Iogurte Perlat;830g;4.99
+Proença Supermercados;06/06/2019;12/06/2019;Queijo Minas Frescal Perlat;1kg;19.98
+Proença Supermercados;06/06/2019;12/06/2019;Manteiga Relíquia da Canastra;200g;7.69
+Proença Supermercados;06/06/2019;12/06/2019;Achocolatado em Pó Nescau 2.0 Lata;400g;4.98
+Proença Supermercados;06/06/2019;12/06/2019;Biscoito Recheado Bono/Negresco;140g;1.69
+Proença Supermercados;06/06/2019;12/06/2019;Refrigerante Guaraná Antactica Pet;2l;4.99
+Proença Supermercados;06/06/2019;12/06/2019;Cerveja Brahma Lata;269ml;1.69
+Proença Supermercados;06/06/2019;12/06/2019;Cerveja Budweiser Long Neck;330ml;2.99
+Proença Supermercados;06/06/2019;12/06/2019;Cerveja Budweiser Garrafa;500ml;5.69
+Proença Supermercados;06/06/2019;12/06/2019;Cerveja Stella Artois Long Neck;275ml;2.99
+Proença Supermercados;06/06/2019;12/06/2019;Cerveja Skol Puro Malte Lata;350ml;2.09
+Proença Supermercados;06/06/2019;12/06/2019;Aguardente 51;965ml;7.98
+Proença Supermercados;06/06/2019;12/06/2019;Extrato de Tomate Quero Lata;350g;2.89
+Proença Supermercados;06/06/2019;12/06/2019;Molho de Tomate Tradicional Quero Sachê;340g;0.99
+Proença Supermercados;06/06/2019;12/06/2019;Ketchup Quero (Trad. Picante);400g;3.99
+Proença Supermercados;06/06/2019;12/06/2019;Maionese Liza Pet;500g;2.99
+Proença Supermercados;06/06/2019;12/06/2019;Extrato de Tomate Elefante Lata;340g;3.49
+Proença Supermercados;06/06/2019;12/06/2019;Molho de Tomate Trad. Pomarola Sachê;340g;1.59
+Proença Supermercados;06/06/2019;12/06/2019;Feijão Branco Patéko Pct.;1kg;9.98
+Proença Supermercados;06/06/2019;12/06/2019;Feijão Fradinho Patéko Pct.;1kg;4.29
+Proença Supermercados;06/06/2019;12/06/2019;Feijão Preto Patéko Tipo 1 Pct.;1kg;3.99
+Proença Supermercados;06/06/2019;12/06/2019;Feijão Carioca Premium Patéko Pct.;2kg;9.98
+Proença Supermercados;06/06/2019;12/06/2019;Arroz Premium Patéko Tipo 1 Pct.;5kg;11.98
+Proença Supermercados;13/06/2019;16/06/2019;Farinha de Trigo Nita PCT.;1kg;2.89
+Proença Supermercados;13/06/2019;16/06/2019;Costelão Bovino Cong.;1kg;10.98
+Proença Supermercados;13/06/2019;16/06/2019;Cerveja Brahma Lata;350ml;1.89
+Proença Supermercados;13/06/2019;16/06/2019;Peito de Frango Nutribem Cong. Pct.;1kg;6.98
+Proença Supermercados;13/06/2019;16/06/2019;Frango Inteiro Caipira Nhô Bento Cong.;1kg;8.98
+Proença Supermercados;13/06/2019;16/06/2019;Linguiça Toscana Frimesa a Granel;1kg;9.98
+Proença Supermercados;13/06/2019;16/06/2019;Linguiça Calabresa Aurora a Granel;1kg;13.99
+Proença Supermercados;13/06/2019;16/06/2019;Salsicha Hot Dog Perdigão a Granel;1kg;7.99
+Proença Supermercados;13/06/2019;16/06/2019;Salame Italiano Sadia Peça;1kg;49.90
+Proença Supermercados;13/06/2019;16/06/2019;Presunto Tradicional Frimesa;1kg;17.90
+Proença Supermercados;13/06/2019;16/06/2019;Peito de Peru Sadia Defumado;1kg;49.90
+Proença Supermercados;13/06/2019;16/06/2019;Lasanha Sadia Sabores;600g;9.98
+Proença Supermercados;13/06/2019;16/06/2019;Iogurte Perlat Sabores;830g;4.99
+Proença Supermercados;13/06/2019;16/06/2019;Laranja Pera;1kg;1.29
+Proença Supermercados;13/06/2019;16/06/2019;Limão Taiti;1kg;1.15
+Proença Supermercados;13/06/2019;16/06/2019;Mamão Formosa;1kg;2.19
+Proença Supermercados;13/06/2019;16/06/2019;Cenoura Extra;1kg;3.49
+Proença Supermercados;13/06/2019;16/06/2019;Cebola Nacional;1kg;2.98
+Proença Supermercados;13/06/2019;16/06/2019;Cerveja Skol Puro Malte Lata;350ml;1.99
+Proença Supermercados;13/06/2019;16/06/2019;Cerveja Budweiser Long Neck;330ml;2.99
+Proença Supermercados;13/06/2019;16/06/2019;Refrigerante Guaraná Antarctica Pet;2l;4.99
+Proença Supermercados;13/06/2019;16/06/2019;Refrigerante Coca-Cola Lata;310ml;1.79
+Proença Supermercados;13/06/2019;16/06/2019;Creme Dental Colgate Total 12;90g;5.25
+Proença Supermercados;13/06/2019;16/06/2019;Café Brasil Long Life Pct.;500g;6.99
+Proença Supermercados;13/06/2019;16/06/2019;Achocolatado em Pó Nescau Tradicional 2.0 Sachê;800g;9.98
+Proença Supermercados;13/06/2019;16/06/2019;Macarrão Instantâneo Renata;85g;0.99
+Proença Supermercados;13/06/2019;16/06/2019;Maionese Liza Trad. Light Pet;500g;2.99
+Proença Supermercados;13/06/2019;16/06/2019;Tempero Sazón Sabores;60g;3.19
+Proença Supermercados;13/06/2019;16/06/2019;Chocolate Tablete Garoto;90g;3.99
+Proença Supermercados;17/06/2019;18/06/2019;Cebola Nacional;1kg;2.98
+Proença Supermercados;17/06/2019;18/06/2019;Batata Doce;1kg;0.99
+Proença Supermercados;17/06/2019;18/06/2019;Laranja Pera;1kg;0.95
+Proença Supermercados;17/06/2019;18/06/2019;Limão Taiti;1kg;0.89
+Proença Supermercados;17/06/2019;18/06/2019;Banana Naninca;1kg;1.45
+Proença Supermercados;17/06/2019;18/06/2019;Banana Maçã;1kg;1.99
+Proença Supermercados;17/06/2019;18/06/2019;Ponkan;1kg;1.89
+Proença Supermercados;17/06/2019;18/06/2019;Manga Palmer;1kg;2.98
+Proença Supermercados;17/06/2019;18/06/2019;Mamão Formosa;1kg;2.39
+Proença Supermercados;17/06/2019;18/06/2019;Pera Portuguesa;1kg;6.95
+Proença Supermercados;17/06/2019;18/06/2019;Maçã Importada;1kg;6.48
+Proença Supermercados;17/06/2019;18/06/2019;Kiwi Turma da Mônica Bandj.;600g;2.69
+Proença Supermercados;17/06/2019;18/06/2019;Abóbora Cabotiá;1kg;1.39
+Proença Supermercados;17/06/2019;18/06/2019;Beterraba;1kg;2.98
+Proença Supermercados;17/06/2019;18/06/2019;Chuchu;1kg;1.85
+Proença Supermercados;17/06/2019;18/06/2019;Cenoura Extra;1kg;3.48
+Proença Supermercados;17/06/2019;18/06/2019;Berinjela;1kg;1.59
+Proença Supermercados;17/06/2019;18/06/2019;Pimentão Verde;1kg;3.98
+Proença Supermercados;17/06/2019;18/06/2019;Repolho Verde;1kg;2.99
+Proença Supermercados;17/06/2019;18/06/2019;Óleo de Soja Vila Velha Pet;900ml;2.79
+Proença Supermercados;17/06/2019;18/06/2019;Achocolatado em Pó Toddy;400g;4.59
+Proença Supermercados;17/06/2019;18/06/2019;Cerveja Antarctica Boa Lata;350ml;1.89
+Proença Supermercados;17/06/2019;18/06/2019;Cerveja Bohemia Pura Malte Lata;350ml;1.99
+Proença Supermercados;17/06/2019;18/06/2019;Contrafilé em Bifes Bovino;1kg;23.99
+Proença Supermercados;17/06/2019;18/06/2019;Coxão Mole Bovino;1kg;19.90
+Proença Supermercados;17/06/2019;18/06/2019;Acém Bovino;1kg;15.49
+Proença Supermercados;17/06/2019;18/06/2019;Miolo do Acém Bovino;1kg;15.95
+Proença Supermercados;17/06/2019;18/06/2019;Capa do Contrafilé Bovino Emb. a Vácuo;1kg;14.98
+Proença Supermercados;17/06/2019;18/06/2019;Figado Bovino;1kg;8.99
+Proença Supermercados;17/06/2019;18/06/2019;Frango Inteiro Nutribem Cong. Pct.;1kg;4.99
+Proença Supermercados;17/06/2019;18/06/2019;Linguiça Toscana na brasa Perdigão a Granel;1kg;11.99
+Proença Supermercados;17/06/2019;18/06/2019;Linguiça Calabresa Aurora a Granel;1kg;13.99
+Proença Supermercados;17/06/2019;18/06/2019;Salsicha Hot Dog Perdigão a Granel;1kg;7.99
+Proença Supermercados;17/06/2019;18/06/2019;Presunto Tradicional Frimesa;1kg;17.90
+Proença Supermercados;17/06/2019;18/06/2019;Salame Italiano Sadia Peça;1kg;49.90
+Proença Supermercados;17/06/2019;18/06/2019;Lasanha Sadia Sabores;600g;9.98
+Proença Supermercados;17/06/2019;18/06/2019;Margarina Doriana;500g;3.69
+Proença Supermercados;17/06/2019;18/06/2019;Creme de Avelã Nutella;350g;16.98
+Proença Supermercados;21/06/2019;26/06/2019;Arroz Biju Tipo 1 Pct.;5kg;9.98
+Proença Supermercados;21/06/2019;26/06/2019;Bolacha Marilan Laminado;400g;3.29
+Proença Supermercados;21/06/2019;26/06/2019;Café Bom Jesus;500g;6.89
+Proença Supermercados;21/06/2019;26/06/2019;Queijo Mussarela Soberana Peça/Pedaço;1kg;16.99
+Proença Supermercados;21/06/2019;26/06/2019;Refrigerante Guaraná Antarctica Pet;2l;4.99
+Proença Supermercados;21/06/2019;26/06/2019;Vinho Santa Carolina Reservado;750ml;19.90
+Proença Supermercados;21/06/2019;26/06/2019;Vinho Chalise;750ml;9.90
+Proença Supermercados;21/06/2019;26/06/2019;Amaciante de Roupas Urca Brisa;5l;8.49
+Proença Supermercados;21/06/2019;26/06/2019;Creme de Avelã Nutella;350g;16.99
+Proença Supermercados;21/06/2019;26/06/2019;Achocolatado em Pó Chocolatto Sachê;700g;6.99
+Proença Supermercados;21/06/2019;26/06/2019;Extrato de Tomate Elefante Tradicional Lata;340g;3.59
+Proença Supermercados;21/06/2019;26/06/2019;Maionese Liza Pet;500g;2.99
+Proença Supermercados;21/06/2019;26/06/2019;Molho de Tomate Caseiro Pomarola Sachê;300g;2.89
+Proença Supermercados;21/06/2019;26/06/2019;Cerveja Brahma Zero Alcool Lata;350ml;2.39
+Proença Supermercados;21/06/2019;26/06/2019;Cerveja Skol Long Neck;275ml;2.39
+Proença Supermercados;21/06/2019;26/06/2019;Cerveja Skol Puro Malte Lata;350ml;1.99
+Proença Supermercados;21/06/2019;26/06/2019;Cerveja Stella Artois Long Neck;275ml;2.89
+Proença Supermercados;21/06/2019;26/06/2019;Cerveja Budweiser One Way;550ml;5.49
+Proença Supermercados;21/06/2019;26/06/2019;Cerveja Colorado Garrafa;600ml;8.99
+Proença Supermercados;21/06/2019;26/06/2019;Cerveja Brahma Lata;269ml;1.69
+Proença Supermercados;21/06/2019;26/06/2019;Sabonete Protex;85g;1.99
+Proença Supermercados;21/06/2019;26/06/2019;Cappuccino 3 Corações;200g;7.89
+Proença Supermercados;21/06/2019;26/06/2019;Café 3 Corações Solúvel Vidro;100g;5.79
+Proença Supermercados;21/06/2019;26/06/2019;Margarina Qualy;1kg;8.98
+Proença Supermercados;21/06/2019;26/06/2019;Salsicha Hot Dog Perdigão a Granel;1kg;7.99
+Proença Supermercados;21/06/2019;26/06/2019;Lasanha Sadia Sabores;600g;9.98
+Proença Supermercados;21/06/2019;26/06/2019;Presunto Tradicional Perdigão cada;100g;1.89
+Proença Supermercados;21/06/2019;26/06/2019;Salame Italiano Sadia Peça;1kg;49.90
+Proença Supermercados;21/06/2019;26/06/2019;Linguiça Toscana na Brasa Perdigão a Granel;1kg;11.99
+Proença Supermercados;21/06/2019;26/06/2019;Linguiça Calabresa Perdigão a Granel;1kg;13.99
+Proença Supermercados;21/06/2019;26/06/2019;Picanha Bovina Fatiada Emb. a Vácuo;1kg;21.99
+Proença Supermercados;21/06/2019;26/06/2019;Coxão Duro Bovino;1kg;17.99
+Proença Supermercados;21/06/2019;26/06/2019;Acém Bovino;1kg;14.99
+Proença Supermercados;21/06/2019;26/06/2019;Miolo do Acém Bovino;1kg;15.98
+Proença Supermercados;21/06/2019;26/06/2019;Fraldão Emb. a Vácuo;1kg;15.99
+Proença Supermercados;21/06/2019;26/06/2019;Costelão Bovino Cong.;1kg;12.98
+Proença Supermercados;21/06/2019;26/06/2019;Rabo Bovino Cong.;1kg;16.59
+Proença Supermercados;21/06/2019;26/06/2019;Frango Inteiro Caipira Nhô Bento Cong.;1kg;8.99
+Proença Supermercados;21/06/2019;26/06/2019;Filé de Peito Sadia Cong. Pct.;1kg;11.98
+Proença Supermercados;21/06/2019;26/06/2019;Sobrecoxa de Frango Sadia Cong. Pct.;1kg;7.99
+Proença Supermercados;21/06/2019;26/06/2019;Frango a Passarinho Sadia Cong. Pct.;1kg;7.98
+Proença Supermercados;27/06/2019;30/06/2019;Arroz Patéko Premium Tipo 1;5kg;12.98
+Proença Supermercados;27/06/2019;30/06/2019;Óleo de Soja Vila Velha Pet;900ml;2.79
+Proença Supermercados;27/06/2019;30/06/2019;Leite Condensado Piracanjuba TP;395g;2.69
+Proença Supermercados;27/06/2019;30/06/2019;Cupim Bovino;1kg;13.99
+Proença Supermercados;27/06/2019;30/06/2019;Margarina Qualy;500g;4.99
+Proença Supermercados;27/06/2019;30/06/2019;Lasanha Sadia Sabores;600g;9.98
+Proença Supermercados;27/06/2019;30/06/2019;Slame Italiano Sadia Peça;1kg;49.90
+Proença Supermercados;27/06/2019;30/06/2019;Presunto Frimesa Tradicional;1kg;17.90
+Proença Supermercados;27/06/2019;30/06/2019;Manteiga Hércules;200g;5.99
+Proença Supermercados;27/06/2019;30/06/2019;Tomate Rasteiro;1kg;3.95
+Proença Supermercados;27/06/2019;30/06/2019;Cebola Nacional;1kg;3.29
+Proença Supermercados;27/06/2019;30/06/2019;Beterraba;1kg;2.98
+Proença Supermercados;27/06/2019;30/06/2019;Berinjela;1kg;1.59
+Proença Supermercados;27/06/2019;30/06/2019;Limão Taiti;1kg;0.99
+Proença Supermercados;27/06/2019;30/06/2019;Melão Amarelo;1kg;2.98
+Proença Supermercados;27/06/2019;30/06/2019;Coxa e Sobrecoxa Nutribem Cong. Pct.;1kg;4.99
+Proença Supermercados;27/06/2019;30/06/2019;Salsicha Hot Dog Perdigão e Granel;1kg;7.99
+Proença Supermercados;27/06/2019;30/06/2019;Linguiça Calabresa Perdigão a Granel;1kg;13.99
+Proença Supermercados;27/06/2019;30/06/2019;Linguiça Toscana Na Brasa Perdigão a Granel;1kg;11.99
+Proença Supermercados;27/06/2019;30/06/2019;Arroz Proença Tipo 1 Pct.;5kg;10.89
+Proença Supermercados;27/06/2019;30/06/2019;Açúcar Refinado Alto Alegre Pct.;1kg;1.59
+Proença Supermercados;27/06/2019;30/06/2019;Macarrão Basilar Semolado Pct.;500g;1.98
+Proença Supermercados;27/06/2019;30/06/2019;Queijo Parmesão Kinino Ralado;40g;2.49
+Proença Supermercados;27/06/2019;30/06/2019;Atum Ralado Coqueiro Óleo Lata;170g;4.49
+Proença Supermercados;27/06/2019;30/06/2019;Macarrão Instantâneo Nissin Lámen Miojo;85g;1.29
+Proença Supermercados;27/06/2019;30/06/2019;Molho de Tomate Tradicional Predilecta Sachê;340g;1.09
+Proença Supermercados;27/06/2019;30/06/2019;Milho Verde Predilecta Lata;200g;1.29
+Proença Supermercados;27/06/2019;30/06/2019;Cerveja Crystal Lata;350ml;1.59
+Proença Supermercados;27/06/2019;30/06/2019;Cerveja Bohemia Puro Malte;350ml;1.99
+Proença Supermercados;27/06/2019;30/06/2019;Creme Dental Sorriso Tripla Limpeza Completa;70g;1.29
+Proença Supermercados;27/06/2019;30/06/2019;Farofa Kinino Temperada;400g;3.49
+Proença Supermercados;27/06/2019;30/06/2019;Cereal Sucrilhos Kellogg's Original;250g;6.99
+Proença Supermercados;27/06/2019;30/06/2019;Mistura para Bolo Renata;400g;3.49
+Proença Supermercados;27/06/2019;30/06/2019;Cookies Bauducco;100g;2.99
+Proença Supermercados;27/06/2019;30/06/2019;Suco Del Valle Frut Pet;1l;3.29
+Proença Supermercados;27/06/2019;30/06/2019;Café do Ponto a Vácuo;500g;10.98
